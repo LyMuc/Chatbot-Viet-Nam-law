@@ -10,6 +10,11 @@
 3. **rag_stategraph.py**
    Rag dùng stategraph cơ bản.
 
+4. **KG_RAG.ipynb&**
+   Code KG+RAG 
+
+   
+
 
 
 
